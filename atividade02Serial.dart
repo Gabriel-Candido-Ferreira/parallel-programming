@@ -24,7 +24,6 @@ void main() {
       }
     }
   }
-
   // Parando o cronômetro.
   cronometro.stop();
 
