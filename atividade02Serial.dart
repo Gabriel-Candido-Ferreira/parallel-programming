@@ -26,7 +26,6 @@ void main() {
   }
   // Parando o cronômetro.
   cronometro.stop();
-
   // Exibindo o resultado.
   print("Histograma:");
   for (int i = 0; i < histograma.length; i++) {
