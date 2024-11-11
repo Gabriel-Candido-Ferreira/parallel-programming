@@ -1,0 +1,7 @@
+# ninja log v6
+6	4500	7530716319909374	CMakeFiles/dados_densos_esparsos.dir/main.cu.obj	9a215578ecff0b81
+4502	5955	7530716364879087	CMakeFiles/dados_densos_esparsos.dir/cmake_device_link.obj	68af19dbc65cd1c4
+5955	6260	7530716379407938	dados_densos_esparsos.exe	c70536b152e253ea
+20	6063	7530717620072522	CMakeFiles/dados_densos_esparsos.dir/main.cu.obj	9a215578ecff0b81
+6064	7512	7530717680514761	CMakeFiles/dados_densos_esparsos.dir/cmake_device_link.obj	68af19dbc65cd1c4
+7512	7704	7530717694996720	dados_densos_esparsos.exe	c70536b152e253ea
