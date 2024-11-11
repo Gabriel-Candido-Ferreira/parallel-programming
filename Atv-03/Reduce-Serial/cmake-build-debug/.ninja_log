@@ -1,0 +1,7 @@
+# ninja log v6
+4	6511	7529863313606120	CMakeFiles/untitled3.dir/main.cu.obj	63aea4c3ddc08365
+6514	8671	7529863378706963	CMakeFiles/untitled3.dir/cmake_device_link.obj	e2840948c7ffcf21
+8671	9124	7529863400280434	untitled3.exe	65d148bec33ae200
+19	6625	7529865117410073	CMakeFiles/untitled3.dir/main.cu.obj	579119177e62865a
+6626	8101	7529865183473907	CMakeFiles/untitled3.dir/cmake_device_link.obj	e2840948c7ffcf21
+8102	8382	7529865198234374	untitled3.exe	65d148bec33ae200

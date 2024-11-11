@@ -1,0 +1,4 @@
+# ninja log v6
+7	8421	7529867385476009	CMakeFiles/Blelloch.dir/main.cu.obj	33e127a29997986f
+8424	9926	7529867469638946	CMakeFiles/Blelloch.dir/cmake_device_link.obj	2003c954505aa1dc
+9926	10205	7529867484656875	Blelloch.exe	476a30e3df0a3822
